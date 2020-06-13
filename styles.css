@@ -276,6 +276,12 @@ margin-bottom: 1rem;
      flex:1;
 
     }
+   .contact h6{
+      font-size:1.5rem;
+      text-transform: uppercase;
+      font-weight: 300;
+      opacity: 0.3;
+    }
     .portfolio-item
     {
       display:flex;
@@ -284,6 +290,12 @@ margin-bottom: 1rem;
       padding: 2rem;
     }
     .portfolio-item h6{
+      font-size:1.5rem;
+      text-transform: uppercase;
+      font-weight: 300;
+      opacity: 0.3;
+    }
+   .contact-heading h6{
       font-size:1.5rem;
       text-transform: uppercase;
       font-weight: 300;
