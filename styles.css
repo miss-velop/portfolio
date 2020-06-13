@@ -191,6 +191,10 @@ margin-bottom: 1rem;
         padding: 2rem;
 
       }
+.cpa{
+  background-color:pink;
+  font-size:1.3rem;
+}
       .skills {
         list-style: none;
         font-size: 20px;
