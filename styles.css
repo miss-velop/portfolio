@@ -176,6 +176,7 @@ margin-bottom: 1rem;
     font-weight: 300;
     position: relative;
     margin-bottom: 1rem;
+    opacity:0.5;
     }
     has-margin-right{
       margin-right: 5rem;
