@@ -195,8 +195,12 @@ margin-bottom: 1rem;
       }
 .cpa{
   background-color:pink;
-  font-size:1.3rem;
+  font-size:1.9rem;
+}.cpa:hover{
+font-size:2.3rem;
+Color:pink;
 }
+
       .skills {
         list-style: none;
         font-size: 20px;
