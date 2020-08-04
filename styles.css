@@ -205,6 +205,12 @@ margin-bottom: 1rem;
 font-size:2.3rem;
 Color:pink;
 }
+.ending{
+  content-align:center;
+  text-alaign:center;
+  padding:0 auto;
+  margin:0;
+}
 
       .skills {
         list-style: none;
