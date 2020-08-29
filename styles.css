@@ -210,6 +210,8 @@ Color:pink;
   text-alaign:center;
   padding:0 auto;
   margin:0;
+  top-margin:0;
+  color:rgba(red, green, blue, alpha);
 }
 
       .skills {
