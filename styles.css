@@ -198,20 +198,28 @@ margin-bottom: 1rem;
         padding: 2rem;
 
       }
-.cpa{
-  background-color:pink;
-  font-size:1.9rem;
-}.cpa:hover{
-font-size:2.3rem;
-Color:pink;
+.cpa {
+  background-color: #f8f9fa;
+  font-size: 1.9rem;
+  transition: all 0.3s ease;
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  color: #333;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-.ending{
-  content-align:center;
-  text-alaign:center;
-  padding:0 auto;
-  margin:0;
-  top-margin:0;
-  color:rgba(red, green, blue, alpha);
+
+.cpa:hover {
+  font-size: 2.3rem;
+  background-color: #e9ecef;
+  color: #495057;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+.ending {
+  text-align: center;
+  margin: 0 auto;
+  padding: 0;
+  color: rgba(0, 0, 0, 0.8); /* adjust color as needed */
 }
 
       .skills {
@@ -289,6 +297,21 @@ Color:pink;
 
 
     }
+ .certificate-desc {
+            flex: 1;
+            min-width: 300px;
+            padding: 30px;
+        }
+        
+        .certificate-desc h3 {
+            color: var(--primary-color);
+            margin-bottom: 15px;
+        }
+        
+        .certificate-desc p {
+            margin-bottom: 10px;
+            color: #666;
+        }
    
     .portfolio-img{
       width: 50rem;
